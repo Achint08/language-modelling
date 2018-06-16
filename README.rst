@@ -3,13 +3,13 @@ languagemodel
 =============
 
 
-Add a short description here!
+Language modelling on Reddit comments data using RNN & LSTM.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Language modelling on Reddit comments data using RNN & LSTM. Trained model and dataset can be found in /data. 
 
 
 Note
